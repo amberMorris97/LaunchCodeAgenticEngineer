@@ -1,4 +1,4 @@
-Agent A's workflow reviews the code in module_x.py, creates tests for all public functions without modifying the code in module_x.py itsself, and makes commits in logical chunks. 
+Agent A's workflow reviews the code in module_x.py, creates tests for all public functions without modifying the code in module_x.py itself, and makes commits in logical chunks. 
 
 Agent B's workflow reviews the code in module_y.py, adds docstrings to all the public functions, reviews the project structure, updates README.md to reflect current project structure, without modifying any test files and committing in logical chunks.
 
